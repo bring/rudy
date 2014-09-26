@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n rudy
+web: bin/hubot -a slack -n rudy
